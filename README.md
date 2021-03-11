@@ -12,4 +12,4 @@ Team A wins            | Team B wins
 ![](https://github.com/alein249/CourtCounter/blob/master/IMG_20210311_163749%5B1%5D.jpg)  |  ![](https://github.com/alein249/CourtCounter/blob/master/IMG_20210311_163801%5B1%5D.jpg)  
 
 ### APK
-**Download from the [LINK!](https://github.com/Iltwats/Court-Counter/releases/download/v1.0/CourtCounter.apk)**
+**Download from the [LINK!](https://github.com/alein249/CourtCounter/releases/download/Latest/app-debug.apk)**
